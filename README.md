@@ -1,7 +1,7 @@
 # React-redux-web-project
 
 For Running the Application follow the commands
-STEP 1: npm install
+STEP 1: npm install  (mandatory as it will install all necessary packages requried for project)
 Note: Inside the project folder where package.json is available else you will get error.
 
 STEP 2: npm run start it will automatically does two things for you
